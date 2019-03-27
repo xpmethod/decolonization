@@ -619,3 +619,23 @@ Institute of Social Research, the intermediate goal is to develop an
 Inter-Disciplinary Centre for Decolonization Studies as an institutional
 base from which to deepen the research program and further develop the
 international collaboration initiated by this project.
+
+[^1]: Dahlia El-Tayeb M. Gubara, *Al Azhar and the Orders of Knowledge*,
+    PhD thesis, Columbia University, 2013
+
+[^2]: James N. Karioki, "African Scholars versus Ali Mazrui,"
+    *Transition*, No. 45, 1974. For Ali Mazrui's response, see, Ali
+    Mazrui, "Africa, my conscience and I," *Transition*, No. 46, 1974
+
+[^3]: Rajat Neogy was jailed by Milton Obote on sedition charges in
+    1968. *Transition* was revived in Ghana in 1971, and its editorship
+    was taken over by Wole Soyinka in 1973. It folded in 1976 for
+    financial reasons, and was then revived in 1991 by Henry Louis
+    Gates, Jr., who brought it to the W.E.B. Du Bois Institute for
+    African and African-American Research at Harvard University where it
+    continues to be based, dislocated both in terms of its vision as its
+    place.
+
+[^4]: Paul Theroux, "Tarzan is an Expatriate," *Transition*, No. 32,
+    August-September 1967, Kampala.
+
