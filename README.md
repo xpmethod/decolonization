@@ -13,6 +13,9 @@ title: Decolonization, the Disciplines and the University
 5.	Partha Chatterjee (Anthropology, Columbia University)
 6.	Mahmood Mamdani (Makerere Institute of Social Research, Makerere University, Kampala)
 
+### Funding by: The Andrew W. Mellon Foundation for US $1,500,000 from Jan 1, 2019 - Dec 31, 2023. Grant # 1808-06062.
+
+### Overview of the Project
 
 I.  **Focus and Themes**
 
