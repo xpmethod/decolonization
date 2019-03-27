@@ -4,6 +4,16 @@ date: Jan 2019
 title: Decolonization, the Disciplines and the University
 ---
 
+### Steering Committee
+
+1.	Rosinka Chaudhuri (Centre for Studies in Social Sciences, Kolkata)
+2.	Samer Frangie (Center for Arab and Middle Eastern Studies (CAMES) - AUB)
+3.	Dzodzi Tsikata (The Institute of African Studies, University of Ghana)
+4.	Manan Ahmed (History, Columbia University)
+5.	Partha Chatterjee (Anthropology, Columbia University)
+6.	Mahmood Mamdani (Makerere Institute of Social Research, Makerere University, Kampala)
+
+
 I.  **Focus and Themes**
 
 *The institutional form* of the modern African university derives from
@@ -507,7 +517,7 @@ stratification of the universities is tied to the social and political
 process of democratization as well as changing relations of power. This
 phenomenon will comprise a significant component of our project.
 
-II. **Process and Activities **
+II. **Process and Activities**
 
 The project will develop around to types of activities, each with a
 different focus. *Workshops and training institutes* will be designed
