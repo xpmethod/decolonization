@@ -51,9 +51,10 @@ reach for the human, the humanities and the social sciences, both
 proclaimed the oneness of humanity and defined that oneness from a very
 European vantage point, as a sameness. We may find and study great
 examples of institutions of learning in the African world before
-European conquest -- in Timbuktu, Cairo[^1], Tunis, Alexandria -- but
+European conquest -- in Timbuktu, Cairo, Tunis, Alexandria -- but
 these did not shape the contemporary African university, whether
-colonial or post-colonial. The decisive influence was the European
+colonial or post-colonial.^[Dahlia El-Tayeb M. Gubara, *Al Azhar and the Orders of Knowledge*,
+    PhD thesis, Columbia University, 2013] The decisive influence was the European
 university.
 
 The African university began as a colonial project -- a top-down
@@ -88,7 +89,9 @@ Mazrui and Walter Rodney. Mazrui called for a university true to its
 classical vision, as the home of the scholar "fascinated by ideas";
 Rodney saw the university as the home of the public intellectual, a
 committed intellectual located in his or her time and place, and deeply
-engaged with the wider society.[^2] One moral of the story I want to
+engaged with the wider society.^[James N. Karioki, "African Scholars versus Ali Mazrui,"
+    *Transition*, No. 45, 1974. For Ali Mazrui's response, see, Ali
+    Mazrui, "Africa, my conscience and I," *Transition*, No. 46, 1974] One moral of the story I want to
 tell is that we resist the temptation to dismiss one side and embrace
 the other. However compelling, these contrasting visions were anchored
 in two equally one-sided notions of higher education: relevance and
@@ -124,14 +127,22 @@ critique of the new order. Instead of a defense of racial privilege as
 at independence, many began to rethink academic freedom as the cutting
 edge of a critique of nationalist power.
 
-It is in this context that Rajat Neogy[^3] founded *Transition*, a cross
+It is in this context that Rajat Neogy founded *Transition*, a cross
 between a journal and a magazine, one in which public intellectuals
-wrote for a public that included both the gown and the town. Those who
+wrote for a public that included both the gown and the town.^[Rajat Neogy was jailed by Milton Obote on sedition charges in
+    1968. *Transition* was revived in Ghana in 1971, and its editorship
+    was taken over by Wole Soyinka in 1973. It folded in 1976 for
+    financial reasons, and was then revived in 1991 by Henry Louis
+    Gates, Jr., who brought it to the W.E.B. Du Bois Institute for
+    African and African-American Research at Harvard University where it
+    continues to be based, dislocated both in terms of its vision as its
+    place.] Those who
 wrote in it included writers like James Baldwin, Langston Hughes, Nadime
 Gordimer, and Chinua Achebe, and politicians like Mwalimu Nyerere and
 Tom Mboya. In the main, however, *Transition* made a possible a regional
 conversation. Paul Theroux wrote 'Tarzan was an expatriate', an
-understanding of Tarzan and Jane as the first expatriates.[^4] Ali
+understanding of Tarzan and Jane as the first expatriates.^[Paul Theroux, "Tarzan is an Expatriate," *Transition*, No. 32,
+    August-September 1967, Kampala.] Ali
 Mazrui wrote 'Nkrumah, The Leninist Czar,' an essay on authoritarianism
 with a socialist tilt and 'Tanzaphilia.' of which I will have more to
 say. In this latter essay, Mazrui contrasted an apparent 'ideological
@@ -620,22 +631,4 @@ Inter-Disciplinary Centre for Decolonization Studies as an institutional
 base from which to deepen the research program and further develop the
 international collaboration initiated by this project.
 
-[^1]: Dahlia El-Tayeb M. Gubara, *Al Azhar and the Orders of Knowledge*,
-    PhD thesis, Columbia University, 2013
-
-[^2]: James N. Karioki, "African Scholars versus Ali Mazrui,"
-    *Transition*, No. 45, 1974. For Ali Mazrui's response, see, Ali
-    Mazrui, "Africa, my conscience and I," *Transition*, No. 46, 1974
-
-[^3]: Rajat Neogy was jailed by Milton Obote on sedition charges in
-    1968. *Transition* was revived in Ghana in 1971, and its editorship
-    was taken over by Wole Soyinka in 1973. It folded in 1976 for
-    financial reasons, and was then revived in 1991 by Henry Louis
-    Gates, Jr., who brought it to the W.E.B. Du Bois Institute for
-    African and African-American Research at Harvard University where it
-    continues to be based, dislocated both in terms of its vision as its
-    place.
-
-[^4]: Paul Theroux, "Tarzan is an Expatriate," *Transition*, No. 32,
-    August-September 1967, Kampala.
 
